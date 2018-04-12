@@ -59,3 +59,4 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 Copyright (c) 2017 Stream.io Inc, and individual contributors. All rights reserved.
 
 See the file "LICENSE" for information on the history of this software, terms & conditions for usage, and a DISCLAIMER OF ALL WARRANTIES.
+1
